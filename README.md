@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Dhanesh Dhakrey
 
-**Data Engineer | Full-Stack Developer | Big Data Enthusiast**
+** Full-Stack Develope | Data Engineer | Microservices Architecture | Big Data Enthusiast**
 
 Welcome to my GitHub! I'm passionate about building scalable data pipelines, backend systems, and elegant user interfaces. I work extensively with big data technologies and modern web development frameworks.
 
