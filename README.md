@@ -11,6 +11,7 @@ Welcome to my GitHub! I'm passionate about building scalable data pipelines, bac
 - **Trade Intel Backend** – Building a robust task management API with JWT authentication, role-based access control (RBAC), PostgreSQL, and comprehensive Swagger documentation
 - Exploring advanced Apache Airflow patterns for complex ETL workflows
 - Improving backend performance optimization with Node.js and Express
+- - Trying to develop most scalable products (private products)
 
 ## 🌱 Currently Learning
 
