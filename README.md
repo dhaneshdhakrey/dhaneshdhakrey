@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Dhanesh Dhakrey
 
-** Full-Stack Develope | Data Engineer | Microservices Architecture | Big Data Enthusiast**
+ Full-Stack Developer | Data Engineer | Microservices Architecture | Big Data Enthusiast
 
 Welcome to my GitHub! I'm passionate about building scalable data pipelines, backend systems, and elegant user interfaces. I work extensively with big data technologies and modern web development frameworks.
 
@@ -11,7 +11,7 @@ Welcome to my GitHub! I'm passionate about building scalable data pipelines, bac
 - **Trade Intel Backend** – Building a robust task management API with JWT authentication, role-based access control (RBAC), PostgreSQL, and comprehensive Swagger documentation
 - Exploring advanced Apache Airflow patterns for complex ETL workflows
 - Improving backend performance optimization with Node.js and Express
-- - Trying to develop most scalable products (private products)
+-  Trying to develop most scalable products (private products)
 
 ## 🌱 Currently Learning
 
@@ -32,16 +32,16 @@ Welcome to my GitHub! I'm passionate about building scalable data pipelines, bac
 ### Backend Development
 - **Node.js** with Express, REST APIs, JWT authentication
 - **Python** (Flask, FastAPI)
-- **Java** (object-oriented design, enterprise patterns)
+- **Java** (Spring Boot, enterprise patterns)
 
 ### Frontend Development
 - **HTML5, CSS3, JavaScript** (vanilla & responsive design)
-- **React** basics
+- **React** 
 
 ### Tools & Platforms
-- Linux/Ubuntu, Git, Docker
-- Firebase, VS Code, Apache Hadoop cluster management
-- Swagger/OpenAPI, Postman
+- Linux/Ubuntu, Git, Docker , Fiddler classic, 
+- Firebase, VS Code, Apache Airflow
+- Swagger/OpenAPI, Postman, Automatic Testing
 
 ---
 
@@ -80,8 +80,8 @@ Weather application with voice command integration.
 
 ## 🤝 Let's Connect
 
-- **LinkedIn:** [Dhanesh Dhakrey](https://linkedin.com/in/dhaneshdhakrey)
-- **Location:** Dinnedevarapadu, Andhra Pradesh, India 🇮🇳
+- **LinkedIn:** [Dhanesh Dhakrey](https://linkedin.com/in/dhanesh-dhakrey)
+- **Location:** Hyderabad, Telangana, India 🇮🇳
 - **Email:** Open to collaborations and opportunities!
 
 ---
