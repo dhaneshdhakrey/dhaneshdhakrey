@@ -53,11 +53,15 @@ Full-stack task management API with enterprise-grade features.
 - **Highlights:** Complete authentication system, role-based permissions, Swagger documentation
 - **Status:** In active development
 
-### 🎵 Spotify Clone
-A pixel-perfect frontend clone of Spotify built with vanilla technologies.
-- **Tech:** HTML5, CSS3, JavaScript (no frameworks)
-- **Highlights:** Responsive design, interactive UI components
+### 🔄 FlowOps Engine – Event-Driven Deployment Orchestrator
 
+A custom pipeline orchestration system that triggers Apache Airflow DAGs upon main-branch pushes, managing the full execution lifecycle of production deployments.
+
+- **Event-Driven Orchestration:** Developed a custom pipeline that triggers Apache Airflow DAGs upon main-branch pushes, managing the full execution lifecycle of production deployments.
+- **Remote Infrastructure Automation:** Leveraged the Paramiko library for secure SSH communication to automate VPS shell interactions, including environment variable injection and source code synchronization.
+- **Extensible Task Architecture:** Designed a modular system supporting sequential execution of custom Python and Shell scripts for infrastructure tasks like Nginx reverse proxy configuration.
+- **Automated Validation Suite:** Integrated a post-deployment testing module with health checks and smoke tests to verify service stability and rollback readiness after each release.
+- 
 ### 🛍️ Online Clothing Store (Project XI)
 Client project: Professional UI for e-commerce platform.
 - **Tech:** HTML, CSS, responsive design
